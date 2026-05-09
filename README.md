@@ -66,7 +66,7 @@ Sales-Revenue-Dashboard/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sales-revenue-dashboard.git
+git clone https://github.com/varungorle/Sales-Revenue-Analysis-Dashboard
 ```
 
 ---
